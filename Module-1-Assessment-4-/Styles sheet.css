@@ -1,0 +1,17 @@
+Table{
+	font-family: cursive;
+	border-collapse: collapse;
+	border-width: 10px;
+	border-style: dashed;
+	border-color: dodgerblue
+}
+
+
+
+
+th{
+ font-weight: bolder;
+ background-color: dodgerblue;
+ color: aliceblue;	
+}
+
